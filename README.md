@@ -4,7 +4,7 @@ Recently graduated from Le Wagon in 2023 after completing a rigorous 9-week inte
 
 Currently, I'm honing my skills and diving into the exciting world of React and Node.js. I actively contribute to personal projects while seeking opportunities to apply my knowledge within a company, with a continuous drive for growth as a developer. 
 
-Always on the lookout for the next technological challenge!
+Always on the lookout for the next technological challenge!🪅
 
 <!--
 **Erikruiz1/Erikruiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
