@@ -1,6 +1,6 @@
 Passionate junior developer with a strong interest in technology and web application development🌞
 
-Recently graduated from Le Wagon in 2023 after completing a rigorous 9-week intensive course🏋🏽, where I collaborated on various projects, including Quizzy, a game that, in partnership with OpenAI, allows us to create and evaluate questions✅. 
+Recently graduated from Le Wagon 🟥 in 2023 after completing a rigorous 9-week intensive course🏋🏽, where I collaborated on various projects, including Quizzy, a game that, in partnership with OpenAI, allows us to create and evaluate questions✅. 
 
 Currently, I'm honing my skills and diving into the exciting world of React and Node.js. I actively contribute to personal projects while seeking opportunities to apply my knowledge within a company, with a continuous drive for growth as a developer. 
 
